@@ -1,2 +1,2 @@
 # calnvheroi
-Repositório como requesito de um desafio no DIO.
+Repositório como requisito de um desafio no DIO.
